@@ -1,0 +1,5 @@
+mobileGoal:
+  retracting rotating lift
+    rotates and places mobilcone onto base frame
+      motors and componenets shoulod stay inplace while mobil goal is equipped so it dosent fall& no clamping so
+      it is easy to dismount the goal
